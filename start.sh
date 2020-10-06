@@ -1,4 +1,4 @@
 #!/bin/bash
 
-python ProxyPool.py webserver &
-python ProxyPool.py schedule
+python src/ProxyPool.py webserver &
+python src/ProxyPool.py schedule
